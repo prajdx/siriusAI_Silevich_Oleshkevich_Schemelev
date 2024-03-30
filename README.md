@@ -4,6 +4,6 @@
 
 data_from_websites.pynb -- получение данных отзывов с сайтов
 
-.pynb -- работа с данными и получение конечного результата
+preprocessing_tfidf_cluster.ipynb.pynb -- работа с данными и получение конечного результата
 
-sirius_ai_2tour.pdf -- презентация
+sirius_ai_2tour_Silevich_Oleshkevich_Shemelev.pdf -- презентация
