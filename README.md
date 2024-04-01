@@ -2,8 +2,10 @@
 
 Информация о файлах:
 
-data_from_websites.pynb -- получение данных отзывов с сайтов
+data_from_sites.pynb -- получение данных отзывов с сайтов
 
-preprocessing_tfidf_cluster.ipynb.pynb -- работа с данными и получение конечного результата
+preprocessing_tfidf_cluster.ipynb -- работа с данными и получение конечного результата
 
-sirius_ai_2tour_Silevich_Oleshkevich_Shemelev.pdf -- презентация
+<i><b>*** к сожалению, я случайно запустил конечный код не из нужной папки, в результате чего программа "preprocessing_tfidf_cluster.ipynb" не смогла нормально считать данные из .csv файлов, в результате чего и не были получены и выведены итоговые результаты. Поэтому я отправил тот же код ещё раз (в файле "preprocessing_tfidf_cluster_2.ipynb"), но уже запущенный из нужной папки.</b></i>
+
+sirius_ai_2_tour_Silevich_Oleshkevich_Shemelev.pdf -- презентация
